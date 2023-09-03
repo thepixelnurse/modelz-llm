@@ -23,9 +23,9 @@ Modelz LLM is an inference server that facilitates the utilization of open sourc
 ### Install
 
 ```bash
-pip install modelz-llm
+sudo pip install modelz-llm
 # or install from source
-pip install git+https://github.com/tensorchord/modelz-llm.git[gpu]
+sudo pip install git+https://github.com/tensorchord/modelz-llm.git[gpu]
 ```
 
 ### Run the self-hosted API server
